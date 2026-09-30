@@ -1,0 +1,6 @@
+{
+  "name": "Motiva Pátio VLT CARIOCA",
+  "description": "Sistema de controle e monitoramento de movimentação, ocupação em tempo real, auditoria, manutenção preventiva e relatórios para pátios ferroviários.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
